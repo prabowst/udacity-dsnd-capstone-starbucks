@@ -36,7 +36,8 @@ The files are organized as follows. In this repository, the data sets from Starb
 ```
 - Starbucks_Capstone.html # the html format of the notebook
 
-- Starbucks_Capstone.ipynb # the main notebook in this project, contains all the steps from raw data to final ML model
+- Starbucks_Capstone.ipynb # the main notebook in this project
+                           # contains all the steps from raw data to final ML model
 
 - figures
 |- channel_dist.svg # distribution of channel types
