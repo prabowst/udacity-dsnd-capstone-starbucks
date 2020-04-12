@@ -1,4 +1,4 @@
-# Udacity Data Science Nanodegree Capstone: Starbucks Challenge
+# Udacity Data Science Nanodegree: Starbucks Capstone
 
 This project includes the deliverables for Udacity Data Science Nanodegree Program: Starbucks Capstone Challenge.
 
