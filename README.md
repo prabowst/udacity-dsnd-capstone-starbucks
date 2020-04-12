@@ -57,7 +57,7 @@ The files are organized as follows. In this repository, the data sets from Starb
 
 ### Project Results<a name="results"></a>
 
-The project results can be found in this blog post.
+The project results can be found in this [blog post](https://medium.com/@prabowoas1002/starbucks-capstone-challenge-16f4234d447b).
 
 ### Licensing and Acknowledgements<a name="licensing"></a>
 
